@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack · Produtos web, IA aplicada, segurança e qualidade
 
-Transformo problemas reais em aplicações completas — da interface e das APIs à autenticação, persistência e testes.
+Transformo problemas reais em aplicações completas da interface e das APIs à autenticação, persistência e testes.
 
 <p>
   <a href="https://igorsilvadev01.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFÓLIO-VER_PROJETOS-D8FF53?style=for-the-badge&labelColor=101211" alt="Acessar portfólio" /></a>
